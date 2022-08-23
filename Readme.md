@@ -1,4 +1,4 @@
-# Project 12 [Live link]()
+# Project 12 [Live link](https://web-design-project12.netlify.app/)
 
 ## skills gained from this project
     - I learned to use media query.
